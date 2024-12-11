@@ -1,0 +1,7 @@
+Explanation:
+
+We did not utilize Metadata in this program.
+
+It was a bit too hard to figure out how to extract the data from my metadata table and it was not connecting.
+
+We found that utilizing the other table with the data in there was much easier to utilize and worked with the program.
